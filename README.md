@@ -13,3 +13,6 @@
 	* [JR東日本 列車運行予測](https://signate.jp/competitions/363) : 🥈
 	* [【学生限定】SIGNATE 22卒インターン選考コンペティション（予測モデル部門）](https://signate.jp/competitions/411): 🥈
 	* [ソニーグループ合同 データ分析コンペティション](https://signate.jp/competitions/624) : 🥉
+### 興味分野
+* 自然言語処理 
+* 画像処理
