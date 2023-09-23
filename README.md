@@ -1,4 +1,4 @@
-### 機械学習コンペティション  
+### 機械学習コンペティション[]()  
 * [Kaggle](https://www.kaggle.com/ryoya0902/competitions)
 	* [Tweet Sentiment Extraction](https://www.kaggle.com/competitions/tweet-sentiment-extraction) : 🥈  
 	* [ASHRAE - Great Energy Predictor III](https://www.kaggle.com/competitions/ashrae-energy-prediction) : 🥈 
@@ -13,7 +13,7 @@
 	* [JR東日本 列車運行予測](https://signate.jp/competitions/363) : 🥈
 	* [【学生限定】SIGNATE 22卒インターン選考コンペティション（予測モデル部門）](https://signate.jp/competitions/411) : 🥈
 	* [ソニーグループ合同 データ分析コンペティション](https://signate.jp/competitions/624) : 🥉
-### 興味分野  
+### 興味分野[]()  
 * 自然言語処理
 	* 機械翻訳 
  	* 事前学習
@@ -22,5 +22,5 @@
 	* 物体検出
  	* 距離学習
  	* 異常検知  
-### 受賞  
+### 受賞[]()  
 * 情報処理学会第84回全国大会学生奨励賞
