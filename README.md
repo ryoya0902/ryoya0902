@@ -11,7 +11,7 @@
 	* [不動産取引価格予測](https://comp.probspace.com/competitions/real_estate_2020) : 409位中22位(🥈)
 * [SIGNATE](https://signate.jp/users/57842)
 	* [JR東日本 列車運行予測](https://signate.jp/competitions/363) : 158位中14位(🥈)
-	* [【学生限定】SIGNATE 22卒インターン選考コンペティション（予測モデル部門）](https://signate.jp/competitions/411) : 463位中34位(🥈)
+	* [【学生限定】SIGNATE 22卒インターン選考コンペティション(予測モデル部門)](https://signate.jp/competitions/411) : 463位中34位(🥈)
 	* [ソニーグループ合同 データ分析コンペティション](https://signate.jp/competitions/624) : 835位中81位(🥉)
 
 ### 興味分野    
