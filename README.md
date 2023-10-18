@@ -1,4 +1,4 @@
-### 機械学習コンペティション  
+## 機械学習コンペティション  
 * [Kaggle](https://www.kaggle.com/ryoya0902/competitions) : Competitions Expert
 	* [Tweet Sentiment Extraction](https://www.kaggle.com/competitions/tweet-sentiment-extraction) : 2225位中21位(🥈)  
 	* [ASHRAE - Great Energy Predictor III](https://www.kaggle.com/competitions/ashrae-energy-prediction) : 226位中22位(🥈) 
@@ -14,7 +14,7 @@
 	* [SIGNATE 22卒インターン選考コンペティション](https://signate.jp/competitions/411) : 463位中34位(🥈)
 	* [ソニーグループ合同 データ分析コンペティション](https://signate.jp/competitions/624) : 835位中81位(🥉)
 
-### 興味分野    
+## 興味分野    
 * 自然言語処理
 	* 機械翻訳 
  	* 事前学習
@@ -24,5 +24,5 @@
  	* 距離学習
  	* 異常検知  
  
-### 受賞    
+## 受賞    
 * 情報処理学会第84回全国大会学生奨励賞
