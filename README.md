@@ -1,5 +1,5 @@
 ### 機械学習コンペティション  
-* [Kaggle](https://www.kaggle.com/ryoya0902/competitions)
+* [Kaggle](https://www.kaggle.com/ryoya0902/competitions) : Competitions Expert
 	* [Tweet Sentiment Extraction](https://www.kaggle.com/competitions/tweet-sentiment-extraction) : 2225位中21位(🥈)  
 	* [ASHRAE - Great Energy Predictor III](https://www.kaggle.com/competitions/ashrae-energy-prediction) : 226位中22位(🥈) 
 	* [Google Landmark Retrieval 2021](https://www.kaggle.com/competitions/landmark-retrieval-2021) : 383位中23位(🥈)  
