@@ -6,7 +6,7 @@
 * [Kaggle](https://www.kaggle.com/ryoya0902/competitions) : Competitions Expert(🥈x4,🥉x1)
 * [ProbSpace](https://comp.probspace.com/users/ryoya/0) : 🥇x1,🥈x2
 * [SIGNATE](https://signate.jp/users/57842) : Competitions Expert(🥈x2,🥉x1)
-* [AtCoder](https://atcoder.jp/users/ryoya0902) : 832(🟩)
+* [AtCoder](https://atcoder.jp/users/ryoya0902) : 🟩
 ## 興味分野    
 * 自然言語処理
 * 画像処理
